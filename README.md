@@ -4,7 +4,7 @@
 
 [![Download PDF](https://img.shields.io/badge/download-PDF-green.svg)](https://peerj.com/articles/515.pdf)
 [![DOI:10.1111/1365-2745.13147](https://zenodo.org/badge/DOI/10.7717/peerj.515.svg)](https://doi.org/10.7717/peerj.515)
-[![GNU v3.0 license](https://img.shields.io/badge/license-GNU%20v3.0-blue.svg)](https://github.com/efcaguab/whale-shark-economics/blob/a-better-workflow/LICENSE)
+[![GNU v3.0 license](https://img.shields.io/badge/license-GNU%20v3.0-blue.svg)](https://github.com/efcaguab/whale-shark-economics/blob/master/LICENSE)
 
 We apply structural controllability to pollination networks and are able to identify a set of species that are critical to changing the state of the community and underpin the stable coexistence of species in their communities. 
 This project has been published as a peer-reviewed article at the **Peer J**. 
