@@ -21,4 +21,5 @@ These expenditures are based on an estimate of 72,000–78,000 tourists who are 
 That substantial amount of income to resort owners and operators, and tourism businesses in a relatively small area highlights the need to implement regulations and management that safeguard the sustainability of the industry through ensuring guest satisfaction and whale shark conservation.
 
 **Subjects:** Conservation Biology, Marine Biology, Coupled Natural and Human Systems
+
 **Keywords:** Economic valuation, Wildlife tourism, Whale shark, Maldives, Regression model, Direct spend, MPA management, Shark watching
