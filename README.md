@@ -1,6 +1,6 @@
 # Whale shark economics: a valuation of wildlife tourism in South Ari Atoll, Maldives
 
-*__Fernando Cagua__, Neal Collins, James Hancock, and Richard Rees
+*__Fernando Cagua__, Neal Collins, James Hancock, and Richard Rees*
 
 [![Download PDF](https://img.shields.io/badge/download-PDF-green.svg)](https://peerj.com/articles/515.pdf)
 [![DOI:10.1111/1365-2745.13147](https://zenodo.org/badge/DOI/10.7717/peerj.515.svg)](https://doi.org/10.7717/peerj.515)
